@@ -1,3 +1,4 @@
 # iBase
 Tugas Besar Algoritma II\
-File berada di folder AppGudang -> dist -> AppGudang.Jar
+File berada di folder AppGudang -> dist -> AppGudang.Jar\
+Database => gudang.sql
